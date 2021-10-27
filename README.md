@@ -1,75 +1,50 @@
-# Hi, my name is [Krasimir Vatev](https://github.com/kvatev98/)??
-<hr>
+# Hi, my name is [Daniil Furnika](https://github.com/DVFurnika20/)!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkvatev98&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23F7F7F7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<img align="right" height="250" width="375" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
-<img align="right" height="250" width="375" src="https://c.tenor.com/G_0WaM2Vyx0AAAAM/smoke-weed-every-day-snoop-dogg.gif" />
+## Stuff about me:
 
-## Talking about Personal Stuffs:
-
-- ?? &nbsp; I�m currently learning HTML5&CSS3 and C++ .
-- ?????? &nbsp; Most of my projects are available on [Github](https://github.com/kvatev98?tab=repositories).
-- ?? &nbsp; Fun fact: 
-- ?? &nbsp; How to reach me: kvatev@codingburgas.bg
+🚀   I’m currently learning HTML5 & CSS3 and C++. <br>
+👨🏻‍💻   Learning how to work with github. <br>
+📫   How to reach me: DVFurnika20@codingburgas.bg <br>
 
 <hr>
 
-### Connect with me:
+### My social media contacts:
 
-<a href ="http://www.google.com" ><img align="left" alt="https://www.facebook.com/krasivatev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
-<img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href ="https://www.youtube.com" ><img align="left" alt="Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/2048px-YouTube_social_white_squircle_%282017%29.svg.png" /></a>
+<a href ="https://www.linkedin.com/" ><img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" /></a>
+<a href ="https://www.instagram.com/" ><img align="left" alt="Instagram" width="30px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" /></a>
+<a href ="https://twitter.com/?lang=eng" ><img align="left" alt="Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" /></a>
 <br>
-<hr>
 
-### Languages and Tools:
+### Languages and Tools I use:
 
-<code><img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
-<code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
-<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
-<code><img alt="JavaScript" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></code>
-<code><img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" ></code>
-<code><img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" ></code>
-<code><img  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>
-<code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
-<code><img  alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
+<code><img alt="CPP" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
+<code><img alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
+<code><img alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
 
 <hr>
-### Projects and Dev Stuffs:
+Other stuff:
 
 <details>	
-  <summary><b>? Github Stats</b></summary>
+  <summary><b>Github Statistics / About me</b></summary>
 
-![Grade](https://github-readme-stats.vercel.app/api?username=kvatev98&show_icons=true&theme=radical&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvatev98&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
+![Grade](https://github-readme-stats.vercel.app/api?username=DVFurnika20&show_icons=true&theme=radical&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DVFurnika20&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
 
 <details>
-  <summary><b>?? Contribution Graph</b></summary>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif" alt="snake gif">
-</details>
+  <summary><b>Badges</b></summary>
 
-<details>
-  <summary><b>???? Repositories</b></summary>
-
-[![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com)
-[![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com)
-</details>
-
-<details>
-  <summary><b>?? Badges</b></summary>
-
-<code><a href ="http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957"><img align="left" alt="Excel" width="200px" src="https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" ></a></code>
-  
-  <code><a href ="https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
-</details>  
+<code><a href ="https://www.credly.com/earner/earned/badge/e29d4b34-0830-4250-b51c-5c9c3c69300e"><img align="left" alt="HTML5 & CSS3" width="200px" src="https://images.credly.com/size/220x220/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a></code>
+<code><a href ="https://www.credly.com/earner/earned/badge/02055bf5-c7da-4581-9760-9193fe4056a3"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
+</details> 
 
 <br>
-  <hr>
+<hr>
 <div align="center">
 
-# Foucus on yourself not others!
+# Bye bye!
 
 </div>
