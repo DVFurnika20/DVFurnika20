@@ -31,7 +31,6 @@ Other stuff:
   <summary><b>📈 Github Statistics / About me</b></summary>
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=DVFurnika20&show_icons=true&theme=radical&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DVFurnika20&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
 
 <details>
