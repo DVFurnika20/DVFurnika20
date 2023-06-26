@@ -14,7 +14,7 @@
 
 <a href ="https://www.youtube.com" ><img align="left" alt="Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/2048px-YouTube_social_white_squircle_%282017%29.svg.png" /></a>
 <a href ="https://www.linkedin.com/" ><img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" /></a>
-<a href ="https://www.instagram.com/" ><img align="left" alt="Instagram" width="30px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" /></a>
+<a href ="https://www.instagram.com/" ><img align="left" alt="Instagram" width="30px" src="https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/2wPYyq9Ejn4.png" /></a>
 <a href ="https://twitter.com/?lang=eng" ><img align="left" alt="Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" /></a>
 <br>
 
